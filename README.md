@@ -27,8 +27,15 @@ cd weight-transfer
 ```
 pip install -r requirements.txt
 ```
+### Download weight files
 
-
+- Download [weight files](https://pan.baidu.com/s/1UGfUyN8rx7_kbBbHfsgjEQ) (access code: qclr) and put them under weight-transfer/ for testing, like 
+```
+weight-transfer/
+       |-------- weight_tf/
+       |-------- weight_keras/
+       |-------- weight_out_keras/
+```
 
 ## Run
 
