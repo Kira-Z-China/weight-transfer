@@ -23,11 +23,7 @@ You need to have Anaconda, PyTorch, and Tensorflow installed beforehand, see the
 git clone https://github.com/Kira-Z-China/weight-transfer
 cd weight-transfer
 ```
-
-
-## Installation
-Please type the command
-
+- Please type the command：
 ```
 pip install -r requirements.txt
 ```
