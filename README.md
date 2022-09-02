@@ -4,7 +4,7 @@ This repository contains utilities for **converting Keras models to PyTorch, con
 
 This repository works well with CUDA 10.2, PyTorch 1.9.0, and Tensorflow 2.1.0.
 
-**Be careful to verify the results or use an alternative method to convert, as this repository can not guarante to produce exactly the same predictions or outputs for other versions of Tensorflow, Keras and PyTorch.**
+**Be careful to verify the results or use an alternative method to convert, as this repository can not guarantee to produce exactly the same predictions or outputs for other versions of Tensorflow, Keras and PyTorch.**
 
 ## Prerequisites
 - Linux or macOS
